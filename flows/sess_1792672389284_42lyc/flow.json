@@ -324,10 +324,10 @@
       "x": null,
       "y": null,
       "hotspot": {
-        "x": 106.5,
-        "y": 43,
-        "width": 169.5,
-        "height": 16.5
+        "x": 254.29972085608057,
+        "y": 42.98946886177525,
+        "width": 21.686746987951807,
+        "height": 106.49096661303416
       },
       "annotations": [],
       "blurRegions": [],
@@ -367,10 +367,10 @@
         "targetType": "Edit",
         "automationId": "",
         "elementBounds": {
-          "x": 106.5,
-          "y": 43,
-          "width": 169.5,
-          "height": 16.5
+          "x": 254.29972085608057,
+          "y": 42.98946886177525,
+          "width": 21.686746987951807,
+          "height": 106.49096661303416
         },
         "appType": "java",
         "appName": "N4, XPS and N4 Mobile",
@@ -2578,5 +2578,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 3
+  "versionMinor": 4
 }
