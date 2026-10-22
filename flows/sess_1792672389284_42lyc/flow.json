@@ -122,23 +122,6 @@
       },
       "annotations": [
         {
-          "fontSize": 18,
-          "bgColor": "white",
-          "color": "skyblue",
-          "textColor": "black",
-          "id": "ann_1792661550601_zphm3",
-          "type": "callout",
-          "x": 38,
-          "y": 59,
-          "width": 142.21686746987953,
-          "height": 68,
-          "text": "Click Pre-advise Export",
-          "tailX": 172,
-          "tailY": 45,
-          "pointerSide": "right",
-          "lineWidth": 3
-        },
-        {
           "fontSize": 11,
           "bgColor": "#d33c3c",
           "borderColor": "rgba(0,0,0,0.2)",
@@ -2613,5 +2596,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 1
+  "versionMinor": 2
 }
