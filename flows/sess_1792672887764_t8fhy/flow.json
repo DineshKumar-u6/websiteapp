@@ -116,9 +116,9 @@
       "y": null,
       "hotspot": {
         "x": 83.99096937064667,
-        "y": 20.997751994305375,
-        "width": 192.34563804534542,
-        "height": 276.0655120481928
+        "y": 272.5640170545463,
+        "width": 160.8998549128153,
+        "height": 24.499246987951807
       },
       "annotations": [
         {
@@ -176,9 +176,9 @@
         "automationId": "",
         "elementBounds": {
           "x": 83.99096937064667,
-          "y": 20.997751994305375,
-          "width": 192.34563804534542,
-          "height": 276.0655120481928
+          "y": 272.5640170545463,
+          "width": 160.8998549128153,
+          "height": 24.499246987951807
         },
         "appType": "java",
         "appName": "N4, XPS and N4 Mobile",
@@ -2578,5 +2578,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 1
+  "versionMinor": 2
 }
