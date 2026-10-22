@@ -21,8 +21,8 @@
       "hotspot": {
         "x": 83.4939869340644,
         "y": 17.49624045498403,
-        "width": 74.36747263713055,
-        "height": 200.74925250317676
+        "width": 472.3192881388836,
+        "height": 127.01431274414061
       },
       "annotations": [],
       "blurRegions": [],
@@ -64,8 +64,8 @@
         "elementBounds": {
           "x": 83.4939869340644,
           "y": 17.49624045498403,
-          "width": 74.36747263713055,
-          "height": 200.74925250317676
+          "width": 472.3192881388836,
+          "height": 127.01431274414061
         },
         "appType": "java",
         "appName": "N4, XPS and N4 Mobile",
@@ -97,7 +97,7 @@
         "hasAutoCalloutRun": true,
         "calloutOffsetX": 0,
         "calloutOffsetY": 0,
-        "waitingDuration": null
+        "waitingDuration": 3
       },
       "imageFile": "images/step_1792672887767_2wthe.png"
     },
@@ -210,7 +210,7 @@
         "hasAutoCalloutRun": true,
         "calloutOffsetX": 0,
         "calloutOffsetY": 0,
-        "waitingDuration": null
+        "waitingDuration": 2.5
       },
       "imageFile": "images/step_1792672887778_m8mzy.png"
     },
@@ -306,7 +306,7 @@
         "hasAutoCalloutRun": true,
         "calloutOffsetX": 0,
         "calloutOffsetY": 0,
-        "waitingDuration": null
+        "waitingDuration": 2.5
       },
       "imageFile": "images/step_1792672887795_qmadk.png"
     },
@@ -2578,5 +2578,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 2
+  "versionMinor": 3
 }
