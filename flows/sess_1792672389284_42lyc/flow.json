@@ -112,13 +112,13 @@
       "instruction": "",
       "actionType": "left_click",
       "bgColor": "#ffffff",
-      "x": 221,
-      "y": 59,
+      "x": null,
+      "y": null,
       "hotspot": {
-        "x": 84,
-        "y": 21,
-        "width": 175,
-        "height": 18
+        "x": 83.99096937064667,
+        "y": 20.997751994305375,
+        "width": 192.34563804534542,
+        "height": 276.0655120481928
       },
       "annotations": [
         {
@@ -175,10 +175,10 @@
         "targetType": "MenuItem",
         "automationId": "",
         "elementBounds": {
-          "x": 84,
-          "y": 21,
-          "width": 175,
-          "height": 18
+          "x": 83.99096937064667,
+          "y": 20.997751994305375,
+          "width": 192.34563804534542,
+          "height": 276.0655120481928
         },
         "appType": "java",
         "appName": "N4, XPS and N4 Mobile",
@@ -225,13 +225,13 @@
       "instruction": "",
       "actionType": "left_click",
       "bgColor": "#ffffff",
-      "x": 233,
-      "y": 105,
+      "x": null,
+      "y": null,
       "hotspot": {
-        "x": 106.5,
-        "y": 43,
-        "width": 169.5,
-        "height": 16.5
+        "x": 106.49096937064667,
+        "y": 42.98946886177525,
+        "width": 126.12198795180723,
+        "height": 296.2500110304499
       },
       "annotations": [],
       "blurRegions": [],
@@ -271,10 +271,10 @@
         "targetType": "Edit",
         "automationId": "",
         "elementBounds": {
-          "x": 106.5,
-          "y": 43,
-          "width": 169.5,
-          "height": 16.5
+          "x": 106.49096937064667,
+          "y": 42.98946886177525,
+          "width": 126.12198795180723,
+          "height": 296.2500110304499
         },
         "appType": "java",
         "appName": "N4, XPS and N4 Mobile",
@@ -2578,5 +2578,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 3,
-  "versionMinor": 1
+  "versionMinor": 3
 }
