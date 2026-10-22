@@ -233,7 +233,25 @@
         "width": 169.5,
         "height": 16.5
       },
-      "annotations": [],
+      "annotations": [
+        {
+          "fontSize": 18,
+          "bgColor": "white",
+          "color": "skyblue",
+          "textColor": "black",
+          "id": "ann_1792661557692_k5zmy",
+          "type": "callout",
+          "x": 57,
+          "y": 80,
+          "width": 185.59036144578312,
+          "height": 68,
+          "text": "Click Equipment Number:",
+          "tailX": 191,
+          "tailY": 66,
+          "pointerSide": "top",
+          "lineWidth": 3
+        }
+      ],
       "blurRegions": [],
       "metadata": {
         "isKeyboardStep": false,
@@ -324,10 +342,10 @@
       "x": null,
       "y": null,
       "hotspot": {
-        "x": 254.29972085608057,
-        "y": 42.98946886177525,
-        "width": 21.686746987951807,
-        "height": 106.49096661303416
+        "x": 106.5,
+        "y": 43,
+        "width": 169.5,
+        "height": 16.5
       },
       "annotations": [],
       "blurRegions": [],
@@ -367,10 +385,10 @@
         "targetType": "Edit",
         "automationId": "",
         "elementBounds": {
-          "x": 254.29972085608057,
-          "y": 42.98946886177525,
-          "width": 21.686746987951807,
-          "height": 106.49096661303416
+          "x": 106.5,
+          "y": 43,
+          "width": 169.5,
+          "height": 16.5
         },
         "appType": "java",
         "appName": "N4, XPS and N4 Mobile",
@@ -2577,6 +2595,6 @@
   "reviewSubmittedBy": "",
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
-  "versionMajor": 1,
-  "versionMinor": 4
+  "versionMajor": 2,
+  "versionMinor": 0
 }
