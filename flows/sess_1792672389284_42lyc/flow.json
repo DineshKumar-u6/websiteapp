@@ -233,25 +233,7 @@
         "width": 169.5,
         "height": 16.5
       },
-      "annotations": [
-        {
-          "fontSize": 18,
-          "bgColor": "white",
-          "color": "skyblue",
-          "textColor": "black",
-          "id": "ann_1792661557692_k5zmy",
-          "type": "callout",
-          "x": 57,
-          "y": 80,
-          "width": 185.59036144578312,
-          "height": 68,
-          "text": "Click Equipment Number:",
-          "tailX": 191,
-          "tailY": 66,
-          "pointerSide": "top",
-          "lineWidth": 3
-        }
-      ],
+      "annotations": [],
       "blurRegions": [],
       "metadata": {
         "isKeyboardStep": false,
@@ -2596,5 +2578,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 2
+  "versionMinor": 3
 }
